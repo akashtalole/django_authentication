@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: taloleakash@gmail.com
+Date: Thu, 31 Oct 2019 11:59:24 -0000
+Message-ID: <157252316478.10904.16394619773604101509@ESDS000825AT>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/MQ/5b1-885b2a8bcda6134b61bd/
+
+Your username, in case you've forgotten: akash
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
